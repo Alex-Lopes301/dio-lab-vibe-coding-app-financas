@@ -106,14 +106,25 @@ Em cima dessas informações fornecidas eu quero que você crie um RDP (Product 
 <img width="711" height="739" alt="image" src="https://github.com/user-attachments/assets/d54b5704-d6f5-446c-aff1-87f746fe34f6" />
 
 
-- Um resumo do que o seu **App de Finanças Pessoais** faz;  
+- Um resumo do que o seu **App de Finanças Pessoais** faz;
+  Ele faz a inclusão de metas financeiras, inserção de gastos pessoais, extrai relatórios visuais através de dashboards de gastos e recebimentos diários e mensais.
+  
 - Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
+  Trabalhar com I.A nessa linha de desenvolvimento de um MSP, pode ser bastante produtiva para uma validação de prototipagem de forma mais ágil e eficiente.
+  
+  - O que funcionou bem?
+   Funcionou bem para a construção de um design amigável e intuitivo na sua prototipagem, podemos assim ter uma boa ideia de como ele vai ficar funcional em um ambiente de produção.
+
+  - O que não funcionou como o esperado?
+  A integração com a sua base de dados, na criação de novos usuários e na inserção de novas metas, pois com apenas os 5 comandos diários gratuitos no lovable, não foi possível implementar as funcionalidade por completas.
+   
   - O que aprendeu sobre conversar com IAs?
+    Elas são bastantes eficiente e produtivas, agilizam muito a implementção e o surgimento de novas idéias. No entanto devemos detalhar bastante no comando para elas, eles tem que ser bastante detalhados para que saiam da forma que nós realmente queremos. 
 
 > [!TIP]
 > Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
+
+https://convo-money-pal.lovable.app
 
 ## 💬 Conclusão
 
