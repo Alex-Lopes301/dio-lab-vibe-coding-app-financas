@@ -73,8 +73,39 @@ Durante essa etapa, você pode orientar a IA para três entregas principais:
 Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste).  
 No README do seu repositório, inclua:
 
-- Seu **prompt final** (PRD);  
-- Prints ou pequenos vídeos das interações com a IA;  
+- Seu **prompt final** (PRD);
+  
+# Contexto
+Quero criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas com o usuário de forma intuitiva e de fácil manuseio por qualquer usuário, de qualquer faixa de idade.  
+A ideia é facilitar o controle financeiro de forma simples e natural, sem formulários manuais ou planilhas complexas.
+
+# Problema
+Muitas pessoas desistem de controlar seus gastos porque os apps atuais exigem muita entrada manual e pouca personalização.  
+Quero resolver isso com uma experiência de conversa e recomendações automáticas de economia.
+Esse app deve conter dashboards com graficos contendo relatórios completos dos gastos e dos valores recebidos, isso deve ser sepadaro por categorias para que possa ter uma maior organização e controle. 
+
+# Público-Alvo
+Pessoas que querem começar a organizar suas finanças de forma prática e sem complicação, principalmente iniciantes.
+
+# Funcionalidades-Chave
+1. Registrar gastos via chat em linguagem natural.  
+2. Classificar automaticamente as transações.  
+3. Definir e acompanhar metas financeiras.  
+4. Receber dicas de economia do “Agente Financeiro”.  
+5. Visualizar relatórios simples e personalizados.
+
+# Entregável da IA
+Gerar um plano de MVP com as principais telas, recursos necessários e um esboço de validação inicial.  
+Usar tom educativo e linguagem acessível, em português. 
+
+Em cima dessas informações fornecidas eu quero que você crie um RDP (Product Requeriment Document) porque eu vou implementar esse projeto do site do lovable.
+    
+- Prints ou pequenos vídeos das interações com a IA;
+<img width="1893" height="910" alt="image" src="https://github.com/user-attachments/assets/76fb1a1e-e1df-4d71-9805-f805fa151606" />
+
+<img width="711" height="739" alt="image" src="https://github.com/user-attachments/assets/d54b5704-d6f5-446c-aff1-87f746fe34f6" />
+
+
 - Um resumo do que o seu **App de Finanças Pessoais** faz;  
 - Uma breve **reflexão sobre o processo**:
   - O que funcionou bem?  
